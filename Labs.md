@@ -110,3 +110,4 @@ Legenda:
 
 
 ### Grupa 2
+[Piotr Kawa i Szymon Świstun](https://github.com/aurustius/ruby-project-2)
